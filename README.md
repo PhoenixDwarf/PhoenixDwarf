@@ -6,8 +6,6 @@
 </h2>
 </div>
 
-<img align="right" width="400" style="padding: 0; border-radius: 10px" alt="Shimarin" src="https://i.pinimg.com/736x/2e/44/08/2e44086a15e27b0f0160dee3c09a0058.jpg"/>
-
 <h2> _ About me _</h2>
 
 - 🌐 Currently working on **web-development**
