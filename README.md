@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   <br><br>
-  <b>PhoenixDwarf<b>
+  <b>I'm Edwin Nemeguen<b>
   <br><br>
 </h2>
 </div>
