@@ -1,56 +1,22 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-  <br><br>
-  <b>I'm Edwin Nemeguen<b>
-  <br><br>
-</h2>
+  <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
+    <br><br>
+    <b>I'm Edwin Nemeguen<b>
+    <br><br>
+  </h2>
 </div>
+    
+# 💫 About Me:
+🌐 Currently working on web-development<br>🔒 Primarily working on private repositories<br>📖 Student in systems and computer science
 
-<h2> _ About me _</h2>
 
-- 🌐 Currently working on **web-development**
-- 🔒 Primarily working on **private repositories**
-- 📖 Student in **systems and computer** science
-  
-<h2> _ Current skills _ </h2>
-  
-- <h4> Technologies / Languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&logoColor=EFD81D" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/wordpress-3858E9?style=for-the-badge&logo=wordpress&logoColor=white" alt = "wordpress" />
-  <img src = "https://img.shields.io/badge/SQL Server-FBBB0B?style=for-the-badge" alt = "SQL Server" />
-  
-  - <h5> Currently learning </h5>
-    <img src = "https://img.shields.io/badge/.net-5027D5?style=for-the-badge&logo=dotnet&logoColor=white" alt = "dotnet" />
-    <img src = "https://img.shields.io/badge/C%23-6C287E?style=for-the-badge" alt = "c#" />
-    <img src = "https://img.shields.io/badge/pyhton-1E415F?style=for-the-badge&logo=python&logoColor=white" alt = "pyhton" />
-  
-- <h4> Frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/angular-8514f5?style=for-the-badge&logo=angular&logoColor=white" alt = "angular" />
-  <img src = "https://img.shields.io/badge/ionic-367CF7?style=for-the-badge&logo=ionic&logoColor=white" alt = "ionic" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  <img src = "https://img.shields.io/badge/primeng-C50836?style=for-the-badge&logo=primeng&logoColor=white" alt = "primeng" />
-  <img src = "https://img.shields.io/badge/material_design-00639B?style=for-the-badge&logo=materialdesign&logoColor=white" alt = "material design" />
-  
-- <h4> Designing tools </h4>
-  <img src = "https://img.shields.io/badge/figma-FF7237?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  <img src = "https://img.shields.io/badge/canva-29C1CA?style=for-the-badge&logo=canva&logoColor=white" alt = "canva" />
-  
-  </br></br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-nemeguen) 
 
-<!--
-**PhoenixDwarf/PhoenixDwarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixDwarf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
