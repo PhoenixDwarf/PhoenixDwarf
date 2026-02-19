@@ -20,4 +20,7 @@
 
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PhoenixDwarf&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=ffff)
 
+<!-- If it stops working check following URL -->
+<!-- https://github.com/anuraghazra/github-readme-stats/issues/4658 -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
